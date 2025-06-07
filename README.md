@@ -1,3 +1,7 @@
+## ✅
+- Docker를 이용해 MySQL, Elasticsearch 설치
+- Dockerfile Nori Analyzer 플러그인 추가
+
 ## ✅ 요구사항 추가
 1. **검색 기능**
     - [ ]  검색을 했을 때 `상품명`, `상품 설명`, `카테고리명`을 기반으로 관련된 상품을 검색해야 한다.
