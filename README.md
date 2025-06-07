@@ -1,4 +1,4 @@
-## ✅
+## ✅ MySQL, Elasticsearch 설치
 - Docker를 이용해 MySQL, Elasticsearch 설치
 - Dockerfile Nori Analyzer 플러그인 추가
 
